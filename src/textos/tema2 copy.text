@@ -1,0 +1,296 @@
+# Tema 2: Herramientas computacionales para análisis estadístico (R, Python, SPSS)
+<!-- 
+RUTA DE ASSETS: @/assets/curso/tema2/
+DISEÑO DE REFERENCIA: tema2.png
+
+INSTRUCCIONES:
+- Numerar assets secuencialmente: 1.png, 2.svg, 3.png, etc.
+- Usar **texto** para negritas (se renderiza como #[strong texto])
+- Respetar orden exacto de marcadores //texto, //color, //assets
+- Especificar distribución de columnas cuando sea necesario: 5:7, 4:8, 6:6
+-->
+
+## BLOQUE: imagen-bloque
+//assets: 1.png
+
+//texto
+En el entorno empresarial actual, caracterizado por la abundancia de datos y la necesidad de decisiones ágiles, el dominio de técnicas estadísticas como la regresión y la correlación se vuelve fundamental para comprender y anticipar comportamientos del mercado. 
+
+## BLOQUE: titulo-segundo
+2.1 Análisis de regresión lineal y múltiple en R, Python y SPSS
+
+La regresión estadística es una técnica que permite modelar la relación entre una variable dependiente y una o más variables independientes.
+
+
+
+## BLOQUE: iconos-color
+//assets: 2.svg, 3.svg
+
+Regresión lineal simple
+Se estudia una sola variable independiente.
+
+---
+
+Regresión múltiple
+Considera múltiples variables independientes.
+
+
+## BLOQUE: texto-color-imagen
+//assets: 2.png
+
+//texto
+**[Título o concepto destacado]:**
+
+//color [1-12]
+  //lista-flechas
+  - [Ventaja o característica 1]
+  - [Ventaja o característica 2]
+  - [Ventaja o característica 3]
+
+//texto
+[Párrafo que complementa la información y proporciona contexto adicional.]
+
+## BLOQUE: tarjetas-boton
+//assets: 3.svg, 4.svg, 5.svg
+
+### [Título tarjeta 1]
+[Descripción concisa del primer concepto o aplicación]
+
+### [Título tarjeta 2] 
+[Descripción concisa del segundo concepto o aplicación]
+
+### [Título tarjeta 3]
+[Descripción concisa del tercer concepto o aplicación]
+
+## BLOQUE: imagen-texto-color 5:7
+//assets: 6.png
+
+//texto
+[Ejemplo práctico o caso de aplicación real que ilustre los conceptos teóricos presentados.]
+
+//color [1-12]
+[Cita textual de autor reconocido o información destacada que refuerce el concepto. Incluir referencia bibliográfica.]
+
+//texto
+[Párrafo de transición que conecte con el siguiente contenido.]
+
+## BLOQUE: tabla
+
+Tabla X. [Título descriptivo de la tabla]
+
+[Encabezado columna 1]
+[Encabezado columna 2]
+[Encabezado columna 3]
+
+[Dato fila 1 col 1]
+[Dato fila 1 col 2]
+[Dato fila 1 col 3]
+
+[Dato fila 2 col 1]
+[Dato fila 2 col 2]
+[Dato fila 2 col 3]
+
+[Dato fila 3 col 1]
+[Dato fila 3 col 2]
+[Dato fila 3 col 3]
+
+## BLOQUE: titulo-segundo
+X.2 [Título del segundo subtema]
+
+[Párrafo introductorio del segundo subtema que conecte con el anterior y presente los nuevos conceptos.]
+
+## BLOQUE: iconos-color
+//assets: 7.svg, 8.svg, 9.svg
+
+[Técnica o método 1]
+[Descripción detallada de la primera técnica o método]
+
+---
+
+[Técnica o método 2]
+[Descripción detallada de la segunda técnica o método]
+
+---
+
+[Técnica o método 3]
+[Descripción detallada de la tercera técnica o método]
+
+## BLOQUE: texto-color-imagen
+//assets: 10.png
+
+//texto
+[Caso aplicado específico que muestre la implementación práctica de los conceptos teóricos]
+
+//color [1-12]
+[Información destacada, puede ser una definición formal, resultado de investigación o dato relevante]
+
+//texto
+[Actividad práctica o ejercicio que los estudiantes pueden realizar para aplicar lo aprendido]
+
+## BLOQUE: slyder-a
+//assets: slide-1.png, slide-2.png, slide-3.png
+
+### [Título principal del slide 1]
+[Contenido descriptivo del primer slide que desarrolle un aspecto específico del tema]
+
+#### [Título secundario del slide 2]
+[Contenido descriptivo del segundo slide que complemente la información anterior]
+
+##### [Título específico del slide 3]
+[Contenido descriptivo del tercer slide que concrete la aplicación práctica]
+
+## BLOQUE: titulo-segundo
+X.3 [Título del tercer subtema]
+
+## BLOQUE: imagen-texto-color
+//assets: 11.png
+
+//texto
+[Introducción a métodos de validación, seguimiento o aplicación práctica de los conceptos aprendidos]
+
+//color [1-12]
+  //lista-flechas
+  - [Método de validación 1]
+  - [Método de validación 2]
+  - [Método de validación 3]
+
+//texto
+**[Texto destacado sobre la importancia de la validación o aplicación en entornos reales]**
+
+## BLOQUE: texto-color-imagen
+//assets: 12.png
+
+//texto
+[Ejemplo detallado de implementación o caso de estudio que integre múltiples conceptos del tema]
+
+[Descripción de proceso paso a paso o metodología específica]
+
+[Presentación de resultados o fórmulas relevantes]
+
+//color [1-12]
+[Fórmula matemática, resultado numérico o conclusión importante del caso de estudio]
+
+//texto
+**[Reflexión metodológica]** [Pregunta reflexiva para el estudiante]
+
+## BLOQUE: imagen-texto-color 5:7
+//assets: 13.png
+
+//texto
+[Desarrollo de ejercicio práctico con datos específicos y procedimiento detallado]
+
+[Presentación de datos iniciales y contexto del ejercicio]
+
+[Explicación de la metodología a aplicar]
+
+//color [1-12]
+[Fórmula o procedimiento de cálculo paso a paso]
+
+//texto
+[Interpretación de resultados y análisis de los mismos]
+
+**[Conclusión metodológica]** [Síntesis sobre la utilidad y aplicación de la metodología aprendida]
+
+## BLOQUE: figura-completa
+
+//assets: figura-completa.png (900px)
+
+Figura X.
+[Título descriptivo de la figura]
+Nota. [Fuente de la figura o descripción metodológica]
+
+## BLOQUE: acordeon
+//assets: acor-1.png, acor-2.png, acor-3.png
+
+[Aspecto avanzado 1]
+[Desarrollo detallado del primer aspecto avanzado del tema, con explicación técnica y ejemplos]
+
+---
+
+[Aspecto avanzado 2]
+[Desarrollo detallado del segundo aspecto avanzado, incluyendo consideraciones prácticas]
+
+---
+
+[Aspecto avanzado 3]
+[Desarrollo detallado del tercer aspecto avanzado, con aplicaciones específicas]
+
+## BLOQUE: bloque-material-complementario
+
+[Autor, A. A., Autor, B. B. & Autor, C. C. (Año). Título completo del libro o artículo. Editorial. URL o DOI si aplica]
+
+[Autor, D. D. (Año, día de mes). Título del video o recurso multimedia (video). Plataforma. URL]
+
+<!-- 
+==================== GUÍA DE USO DEL TEMPLATE ====================
+
+📋 ESTRUCTURA GENERAL:
+- Introducción con imagen-bloque
+- 3 subtemas principales con titulo-segundo
+- Material complementario al final
+
+🎨 DISTRIBUCIÓN DE COLUMNAS:
+- Sin especificar = 8:4 (texto grande, imagen pequeña)
+- 5:7 = imagen mediana, texto grande  
+- 4:8 = imagen pequeña, texto muy grande
+- 6:6 = distribución equilibrada
+
+🔤 FORMATO DE TEXTO:
+- **texto** → se renderiza como #[strong texto]
+- ### → h3, #### → h4, ##### → h5 en tarjetas y sliders
+
+🎯 ORDEN CRÍTICO DE MARCADORES:
+RESPETAR EXACTAMENTE el orden de aparición:
+//texto (primer párrafo)
+//color (bloque de color)  
+//texto (segundo párrafo)
+
+🎨 COLORES DISPONIBLES:
+//color 1 → #FEE3D8 (melocotón claro)
+//color 2 → #D7E7F8 (azul claro)
+//color 3 → #E5F8F8 (verde azulado claro)
+//color 4 → #FEF3D1 (amarillo claro)
+//color 5 → #FEF0EA (coral claro)
+//color 6-12 → otros colores del sistema
+
+📱 TARJETAS RESPONSIVAS:
+- 2 tarjetas → col-lg-6
+- 3 tarjetas → col-lg-4  
+- 4 tarjetas → col-lg-3
+
+🖼️ ASSETS:
+- Numerar secuencialmente: 1.png, 2.svg, 3.png
+- .svg para iconos y elementos gráficos
+- .png para fotografías e imágenes complejas
+- infografia.png para infografías interactivas
+
+➗ SEPARADORES:
+- --- entre items de acordeón, iconos-color, infografía, tarjetas
+- ## BLOQUE para cambiar de patrón de diseño
+
+📚 BLOQUES MÁS USADOS (en orden de frecuencia):
+1. texto-color-imagen (texto con caja de color e imagen lateral)
+2. tarjetas-boton (tarjetas con iconos y sombra)
+3. imagen-texto-color (imagen grande con texto y color)
+4. iconos-color (bloques de color con iconos)
+5. tabla (tablas con título separado)
+6. infografia-1 (infografías interactivas)
+7. acordeon (contenido expandible)
+8. slyder-a (carrusel de contenido)
+
+⚠️ ERRORES COMUNES A EVITAR:
+- ❌ Alterar el orden de marcadores //
+- ❌ Inventar nuevos bloques no documentados
+- ❌ Usar placeholders genéricos (Lorem ipsum)
+- ❌ Agrupar //texto antes de //color
+- ❌ No especificar número de color
+- ❌ No numerar assets secuencialmente
+
+✅ BUENAS PRÁCTICAS:
+- Usar casos reales y específicos
+- Incluir ejemplos numéricos concretos
+- Citar autores reconocidos en //color
+- Mantener coherencia en la numeración
+- Proporcionar reflexiones al final de secciones
+- Conectar teoría con aplicación práctica
+-->

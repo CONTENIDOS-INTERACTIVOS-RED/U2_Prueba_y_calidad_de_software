@@ -1,3 +1,9 @@
+// TEMPORAL: Deshabilitar animaciones AOS
+[data-aos]
+  opacity: 1 !important
+  transform: none !important
+  transition: none !important
+
 .container.tarjeta
   overflow-y: hidden
 
@@ -17,19 +23,55 @@
 
 .bg-color
   &-1
-    background-color: #EAF8FD
+    background-color: #CDD9F7
   &-2
-    background-color: #FFFBE8
+    background-color: #FBE7B2
   &-3
-    background-color: #F0E9F6
+    background-color: #3B2A76
   &-4
-    background-color: #EAF8FD
+    background-color: #B6FBF3
+  &-5
+    background-color: #062678
+  &-6
+    background-color: #F7CEF5
+  &-7
+    background-color: #FFEBD0
+  &-8
+    background-color: #FEF9E5
+  &-9
+    background-color: #E5FDFA
+  &-10
+    background-color: #7E33F0
+  &-11
+    background-color: #FADEF8
+
+  &-12
+    background-color: #E1DAF7
+  &-13
+    background-color: #7E357B
+  &-14
+    background-color: #C3B7EF
+  &-15
+    background-color: #FCEEFB
+  &-16
+    background-color: #5C2C88
   &-info
-    background-color: #E8EEFD
+    background-image: url("../assets/bg/bg-info.svg") !important
+    background-position: top
   &-sintesis
     background-color: #F9F9F9
   &-white
     background-color: #fff
+
+.bg-gradiente
+  &-1
+    background: linear-gradient(0deg,rgba(255, 255, 255, 1) 0%, rgba(229, 235, 251, 1) 41%, rgba(229, 235, 251, 1) 60%, rgba(255, 255, 255, 1) 100%)
+  &-2
+    background: linear-gradient(0deg,rgba(255, 255, 255, 1) 0%, rgba(246, 236, 254, 1) 41%, rgba(246, 236, 254, 1) 60%, rgba(255, 255, 255, 1) 100%)
+  &-3
+    background: linear-gradient(0deg,rgba(255, 255, 255, 1) 0%, rgba(254, 249, 229, 1) 41%, rgba(254, 249, 229, 1) 60%, rgba(255, 255, 255, 1) 100%)
+
+
 
 .border-top
   &.color-primario
@@ -54,10 +96,9 @@
     background-image: url("../assets/bg/bg1.png") !important
     background-position: top
   &-2
-    // background-image: url("../assets/bg/bg2.png") !important
-    background-position: bottom
+    background: linear-gradient(0deg,rgba(255, 255, 255, 1) 0%, rgba(195, 183, 239, 1) 35%, rgba(195, 183, 239, 1) 65%, rgba(255, 255, 255, 1) 100%)
   &-slider
-    background-image: url("../assets/bg/bg-slider.png") !important
+    background-image: url("../assets/bg/bg-slider.svg") !important
     background-position: bottom
 
 // Variables
@@ -97,15 +138,15 @@ $custom-card-img-height: 322px
 
 
 .acordion__header
-  background-color: lighten($color-acento-contenido, 25%) !important
+  background-color: #FCEEB5 !important
 
 .acordion__header--active
-  background-color: $color-acento-contenido !important
+  background-color: #F6C810 !important
   h4, i
     color: #000 !important
 
 .acordion__contenido
-  background-color: lighten($color-acento-contenido, 27%) !important
+  background-color: #FEF9E5 !important
 
 
 .anexo__texto
@@ -214,16 +255,19 @@ $custom-card-img-height: 322px
 
 
 .lista-ul--color li > i:first-of-type
-  color: #453179 !important
+  color: #111e61 !important
 
 .lista-ul--color.color-dark li > i:first-of-type
-  color: #453179 !important
+  color: #111e61 !important
           
 
 th.bg-color-tabla
-  background-color: #453179 !important
+  background-color: #5C2C88 !important
   color: #fff !important
 
 
 .bordes
   border: 1px solid lightgray !important
+
+.bg-color-actividad
+  background-color: #EBF1F5

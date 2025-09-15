@@ -1,7 +1,7 @@
 export default {
   global: {
-    numeroUnidad: '3',
-    tituloUnidad: 'Bioética y sostenibilidad en el desarrollo económico global',
+    numeroUnidad: '2',
+    tituloUnidad: 'Automatización de pruebas',
   },
   menuPrincipal: {
     menu: [
@@ -15,70 +15,29 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Título tema',
+        titulo: 'Automatización de pruebas',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Subtítulo tema',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Subtítulo tema',
-            hash: 't_1_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Título tema',
+        titulo: 'Herramientas para pruebas automatizadas (Selenium, JUnit)',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Subtítulo tema',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Subtítulo tema',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Subtítulo tema',
-            hash: 't_2_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Título tema',
+        titulo: 'Desarrollo de scripts de prueba',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Subtítulo tema',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Subtítulo tema',
-            hash: 't_3_2',
-          },
-        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        numero: '4',
+        titulo: 'Integración de pruebas automatizadas en pipelines CI/CD',
+        desarrolloContenidos: true,
       },
       {
         nombreRuta: 'sintesis',
@@ -118,26 +77,116 @@ export default {
   referencias: [
     {
       referencia:
-        'Ardaraz, M. (2002). Teoría de las tres dimensiones de desarrollo sostenible: . Ecosistemas, 11(2)',
-      link:
-        'https://www.revistaecosistemas.net/index.php/ecosistemas/article/view/614',
+        'Ortega Candel, J. M. (2018). Seguridad en aplicaciones Web Java: ( ed.). RA-MA Editorial.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/106511',
     },
     {
       referencia:
-        'Beltrán, D. J. (2002). La estrategia de desarrollo sostenible de la Unión Europea en el contexto global: de Río a Johannesburgo. ICE. Revista de Economía, (800).',
-      link: '',
+        'Piattini Velthuis, M. & Garzás Parra, J. (2015). Fábricas de software: experiencias, tecnologías y organización: ( ed.). RA-MA Editorial.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/106389',
+    },
+    {
+      referencia:
+        'Omaña, M. (2012). Manufactura esbelta: una contribución para el desarrollo de software con calidad: ( ed.). Red Enlace.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/98547',
     },
   ],
   glosario: [
     {
-      termino: 'Bioética',
+      termino: 'API',
       significado:
-        'disciplina que estudia las implicaciones éticas, sociales y legales de los avances biológicos y médicos, buscando garantizar que las decisiones en estos campos respeten la dignidad humana, los derechos fundamentales y la justicia social.',
+        'Interfaz que permite la comunicación entre diferentes sistemas o componentes.',
     },
     {
-      termino: '<em>Design Thinking</em>',
+      termino: 'Automatización',
       significado:
-        'método de diseño centrado en el usuario que se basa en la comprensión de las necesidades y expectativas de los clientes, para crear soluciones innovadoras y efectivas.',
+        'Proceso de ejecutar tareas sin intervención manual mediante scripts o herramientas.',
+    },
+    {
+      termino: 'Build',
+      significado:
+        'Proceso de compilar el código fuente para generar un ejecutable o artefacto.',
+    },
+    {
+      termino: 'CD',
+      significado:
+        'Entrega Continua, automatiza la preparación de builds para producción.',
+    },
+    {
+      termino: 'CI',
+      significado:
+        'Integración Continua, práctica de fusionar cambios frecuentes en el código base.',
+    },
+    {
+      termino: 'Commit',
+      significado: 'Registro de cambios en el sistema de control de versiones.',
+    },
+    {
+      termino: 'Coverage',
+      significado:
+        'Métrica que indica qué porcentaje del código es cubierto por pruebas.',
+    },
+    {
+      termino: 'Despliegue',
+      significado:
+        'Acción de publicar una versión del software en un entorno determinado.',
+    },
+    {
+      termino: 'DevOps',
+      significado:
+        'Cultura que integra desarrollo y operaciones para entregas continuas.',
+    },
+    {
+      termino: 'Headless',
+      significado:
+        'Modo de ejecutar navegadores sin interfaz gráfica, usado en pruebas automatizadas.',
+    },
+    {
+      termino: 'JUnit',
+      significado: 'Framework de pruebas unitarias para Java.',
+    },
+    {
+      termino: 'Jenkins',
+      significado:
+        'Herramienta de automatización para CI/CD ampliamente usada en proyectos DevOps.',
+    },
+    {
+      termino: 'Mock',
+      significado:
+        'Objeto simulado utilizado para pruebas aisladas de componentes.',
+    },
+    {
+      termino: 'Pipeline',
+      significado:
+        'Flujo automatizado que define etapas de compilación, prueba y despliegue.',
+    },
+    {
+      termino: 'Pull Request',
+      significado:
+        'Solicitud de revisión de código antes de fusionarlo con la rama principal.',
+    },
+    {
+      termino: 'Repositorio',
+      significado:
+        'Espacio centralizado donde se almacena y gestiona el código fuente.',
+    },
+    {
+      termino: 'Selenium',
+      significado: 'Herramienta para automatizar pruebas en interfaces web.',
+    },
+    {
+      termino: 'Test Suite',
+      significado: 'Conjunto agrupado de casos de prueba relacionados.',
+    },
+    {
+      termino: 'WebDriver',
+      significado:
+        'API que permite controlar navegadores web desde scripts automatizados.',
+    },
+    {
+      termino: 'YAML',
+      significado:
+        'Lenguaje de configuración utilizado en pipelines como los de GitHub Actions.',
     },
   ],
 }

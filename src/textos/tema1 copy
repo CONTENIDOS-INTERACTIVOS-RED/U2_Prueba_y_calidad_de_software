@@ -1,0 +1,238 @@
+# Tema 1: 1. Roles en Scrum
+
+<!-- 
+RUTA DE ASSETS: @/assets/curso/tema1/
+DISEÑO DE REFERENCIA: tema1.png
+-->
+
+
+## BLOQUE: bloque-img
+//assets: 1.svg
+
+//texto
+En el núcleo de Scrum, se encuentran tres roles fundamentales: el *Product Owner*, el *Scrum Master* y el Equipo de Desarrollo. Estos no son simplemente cargos administrativos, sino roles bien definidos que permiten la autogestión, colaboración constante y entrega continua de valor. Entenderlos a profundidad es esencial para cualquier equipo que busque implementar metodologías ágiles de manera efectiva y sostenible (Heras del Dedo y Álvarez García, 2017).
+
+
+
+## BLOQUE: infografia-1
+//assets: infografia1.svg
+
+Scrum Master
+- Apoya en la adopción del marco de referencia.
+- Hace de coach al Product Owner.
+- Establece acuerdos y prepara el entorno, para adoptar prácticas ágiles.
+  
+---
+
+Product Owner
+- Define la visión del negocio.
+- Ayuda a crear el acta constitutiva del proyecto y su presupuesto.
+  
+---
+
+Development Team
+- Se empieza a visualizar y negociar su composición.
+- Experto para desarrollar el producto.
+
+## BLOQUE: titulo-segundo
+
+1.1 Funciones del Product Owner
+
+El *Product Owner* (PO) representa la voz del cliente y del negocio dentro del equipo Scrum. Es quien posee la responsabilidad final sobre el producto, asegurando que cada funcionalidad desarrollada responda a una necesidad real del usuario o del mercado. Su papel es crítico, dado que una mala priorización, puede llevar al desarrollo de funcionalidades inútiles o al uso ineficiente de los recursos del equipo.
+
+Conozcamos sus funciones:
+
+## BLOQUE: imagen-texto-iconobloque
+
+//assets: 3.png, 4.svg
+
+//texto
+Ahora con la evolución de las tecnologías y el mundo, se está viviendo en una sociedad rápida y cambiante; las necesidades de los clientes se modifican constantemente y los equipos de desarrollo deben poderse adaptar a los cambios. Con lo anterior nacen las metodologías ágiles, las cuales se concretaron con el Manifiesto Ágil, un compendio de 12 principios y 4 valores que cambiaron la forma de trabajo de los equipos de desarrollo y la gestión de los proyectos.
+
+//iconobloque
+Con la transformación digital, los marcos de trabajo ágil se han convertido en una pieza fundamental para los proyectos de *software*, y también hay equipos de trabajo de múltiples disciplinas que tienen casos de éxitos aplicando estas metodologías.
+
+## BLOQUE
+1.1. Introducción a las metodologías ágiles
+
+## BLOQUE: color-imagen
+
+//assets: 5.png
+
+//color 1
+  ### Durante décadas, los proyectos de *software* se abordaron desde una lógica predictiva.
+
+  El modelo tradicional en cascada, por ejemplo, partía de la premisa de que todos los requisitos podían conocerse y documentarse al inicio, y que el proyecto podía ejecutarse de manera secuencial. Sin embargo, en la práctica, esto rara vez ocurría. Las necesidades del cliente evolucionan, los errores no se descubren sino hasta fases avanzadas, y los productos terminaban entregándose tarde, incompletos o con poco valor.
+
+  Frente a este panorama, comenzó a gestarse un cambio de paradigma. Se requerían nuevas formas de trabajo que favorecieron la adaptabilidad, la colaboración continua y la entrega temprana de valor. Fue así como en el 2001, un grupo de diecisiete expertos en desarrollo de *software*, redactó el Manifiesto Ágil, dando origen a un movimiento que revolucionó la ingeniería del *software*.
+
+  **La anterior frase es como comienza el Manifiesto Ágil indicando que se está mejorando un proceso y con la experiencia, evolucionando las formas de trabajo.**
+
+
+## BLOQUE: texto
+
+Con ese documento del Manifiesto Ágil, se comenzará el resto del contenido de esta unidad; el manifiesto fue publicado en el 2001 a partir de la idea de 17 desarrolladores de *software* (Kent Beck, Mike Beedle, Arie van Bennekum, Alistair Cockburn, Ward Cunningham, Martin Fowler, James Grenning, Jim Highsmith, Andrew Hunt, Ron Jeffries, Jon Kern, Brian Marick, Robert C. Martin, Steve Mellor, Ken Schwaber, Jeff Sutherland, Dave Thomas), que necesitaban contar con una forma diferente de trabajo, para procesos de desarrollo cambiantes y no lineales.
+
+**A continuación, se revisarán los 4 valores y 12 principios que contempla el documento.**
+
+
+1.2 Principios de metodologías ágiles
+
+## BLOQUE: texto-imagen 8:4
+
+//assets: 6.svg
+
+Antes de dar inicio a los principios del Manifiesto Ágil, es importante conocer los 4 valores sobre los cuales se fundamenta. Estos 4 valores dan vida al Manifiesto Ágil y se constituyen en parte esencial del marco de trabajo.
+
+**El Manifiesto Ágil plantea cuatro valores que priorizan lo humano, lo útil y lo adaptable, por encima de lo rígido y preestablecido:**
+
+## BLOQUE: tarjetas-boton
+//assets: 7.svg, 8.svg, 9.svg, 10.svg
+
+#### Individuos e interacciones sobre procesos y herramientas
+El éxito de un proyecto depende más de la comunicación efectiva, que de la sofisticación de las herramientas empleadas.
+
+#### *Software* funcionando sobre documentación extensiva
+Lo prioritario es entregar resultados tangibles, no documentos teóricos que pueden quedar obsoletos.
+
+#### Colaboración con el cliente sobre negociación contractual
+Se promueve un diálogo constante con el cliente, en lugar de una relación limitada a los términos iniciales de un contrato.
+
+#### Respuesta ante el cambio sobre seguir un plan
+La capacidad de adaptación es más valiosa que la fidelidad a un plan que puede dejar de ser pertinente.
+
+## BLOQUE: imagen-color-texto
+
+//assets: 11.png
+
+//color 4
+Estos valores no niegan la importancia de procesos, documentación, contratos o planes, sino que reubican sus prioridades, en función del valor que se entrega.
+
+//texto
+El Manifiesto Ágil no solo propone un cambio en los valores del desarrollo de *software*, sino que detalla 12 principios fundamentales que orientan las prácticas de los equipos ágiles. Estos principios no deben interpretarse como reglas fijas, sino como **guías que impulsan una cultura de mejora continua, colaboración y entrega de valor**. A continuación, se desarrollan de manera argumentativa:
+
+
+## BLOQUE: anexo-img 8:4
+//assets: 12.png
+
+### Principios
+
+La comprensión de los principios del Manifiesto Ágil, es fundamental para adoptar una visión integral sobre la forma en que los equipos de desarrollo abordan la creación de *software* en entornos dinámicos y colaborativos. En el PDF Principios, se exploran los doce principios que orientan las prácticas ágiles, destacando cómo promueven la entrega continua de valor, la mejora constante, la participación activa del cliente y el bienestar del equipo de trabajo. A través de explicaciones y ejemplos prácticos, se analiza cómo estos principios pueden aplicarse efectivamente, para optimizar resultados en proyectos reales.
+//archivo: Anexo_1.pdf
+//color: #062678
+
+## BLOQUE
+
+1.3. Tipos de metodologías ágiles
+
+## BLOQUE: texto-iconobloque-imagen
+//assets: 13.svg, 14.png
+
+//texto
+El crecimiento exponencial de las metodologías ágiles, en las últimas dos décadas ha dado lugar a una amplia variedad de enfoques que comparten los valores y principios del Manifiesto Ágil, pero que se diferencian en sus estructuras, prácticas y adaptabilidad. 
+
+//iconobloque 6
+Comprender los diferentes tipos de metodologías ágiles, permite a los equipos seleccionar o adaptar el enfoque más adecuado, según el tipo de proyecto, cultura organizacional y grado de madurez del equipo (Heras del Dedo & Álvarez García, 2017).
+
+//texto
+En este tema, se exponen las principales metodologías ágiles, sus características distintivas, su aplicabilidad y ejemplos prácticos. Se argumenta, además, por qué estas metodologías han transformado la industria del desarrollo de *software* y cómo han trascendido hacia otras disciplinas.
+
+
+## BLOQUE: img-acordeon 4:8
+//assets: 15.png
+
+//acordeon
+
+Scrum: estructura ligera, alta disciplina
+
+  Scrum es probablemente la metodología ágil más adoptada a nivel mundial. Su enfoque está basado en iteraciones cortas llamadas sprints, que normalmente duran entre 1 y 4 semanas. Al final de cada sprint, se entrega un incremento funcional del producto. El equipo es auto organizado y trabaja con roles definidos: Product Owner, Scrum Master y Development Team (Heras del Dedo & Álvarez García, 2017).
+
+  **Características claves:**
+
+  - Ritmos fijos de trabajo (sprints).
+  - Reuniones estructuradas (Daily Scrum, Sprint Planning, Review y Retrospective).
+  - Entregas regulares de producto funcional.
+  - Gestión del trabajo a través de un Product Backlog.
+  
+  Scrum aporta claridad, responsabilidad y mejora continua. Su estructura rítmica facilita la planificación y permite a los equipos identificar rápidamente cuellos de botella o desviaciones del objetivo. Sin embargo, requiere alta disciplina, compromiso y experiencia del equipo para que las ceremonias no se conviertan en trámites vacíos.
+  
+  **Ejemplo práctico.** Una fintech que necesita iterar rápidamente su interfaz de usuario, implementa Scrum para lanzar nuevas versiones cada dos semanas, priorizando funcionalidades, según el feedback de clientes y stakeholders.
+
+---
+
+Kanban: fluidez y mejora continua sin iteraciones rígidas
+
+  A diferencia de Scrum, Kanban no opera bajo iteraciones, sino que se basa en un flujo continuo de trabajo visualizado en un tablero, donde cada tarea avanza por columnas (p. ej. Por hacer, En proceso, En pruebas, Hecho). Se enfoca en limitar el trabajo en curso (WIP) y optimizar el tiempo de entrega (lead time).
+
+  **Características claves:**
+
+  - Visualización completa del flujo de trabajo.
+  - Sin necesidad de roles específicos ni sprints.
+  - Enfoque en la entrega continua y la mejora del proceso.
+  - Adaptabilidad sin interrupción de procesos existentes.
+
+  **Argumento central**
+  Kanban es ideal para equipos que buscan optimizar su rendimiento sin necesidad de reestructurar su forma de trabajo. Es especialmente útil cuando las prioridades cambian constantemente o cuando las tareas no pueden predecirse con anticipación, como en soporte técnico o mantenimiento.
+
+  **Ejemplo práctico.** Un equipo de IT que resuelve incidencias y tickets, adopta Kanban para priorizar tareas entrantes, limitar los trabajos simultáneos y mejorar los tiempos de resolución sin necesidad de planificar sprints.
+
+---
+
+Extreme Programming (XP): excelencia técnica como base de la agilidad
+
+  Extreme Programming (XP), es una metodología que pone un fuerte énfasis en las prácticas de desarrollo técnico, especialmente aquellas que garantizan calidad, integración continua y colaboración cercana con el cliente. Fue diseñada para entornos de alta incertidumbre y cambios frecuentes en los requisitos.
+
+  **Características claves:**
+  - Desarrollo orientado a pruebas (TDD).
+  - Programación en parejas (pair programming).
+  - Integración continua y diseño simple.
+  - Retroalimentación constante del cliente.
+  
+  XP no solo busca entregar valor rápidamente, sino también garantizar que el código sea sostenible y de alta calidad técnica. Es la metodología más exigente desde el punto de vista del desarrollo, pero también la que más promueve la excelencia y la adaptabilidad del producto, frente a cambios drásticos.
+  
+  **Ejemplo práctico.** Una startup que desarrolla algoritmos de predicción en tiempo real, adopta XP para asegurar que cada nuevo módulo sea probado exhaustivamente y que la base del código permanezca limpia y estable, ante cambios constantes.
+
+## BLOQUE: acordeon-img 8:4
+//assets: 16.png
+
+//acordeon
+Lean *Software* Development: eficiencia inspirada en la manufactura
+  Lean es una adaptación de los principios del sistema de producción de Toyota, al desarrollo de *software*. Se enfoca en eliminar desperdicios, mejorar el aprendizaje, construir calidad desde el inicio y entregar lo más rápido posible. Si bien no prescribe ceremonias específicas, sí proporciona una filosofía poderosa que puede integrarse con otras metodologías como Scrum o Kanban.
+
+  **Características claves:**
+  - Eliminación del trabajo que no aporta valor.
+  - Decisiones tomadas lo más tarde posible (para basarlas en hechos).
+  - Respeto y empoderamiento del equipo.
+  - Optimización de todo el sistema.
+  
+  Lean es más una mentalidad que una metodología estricta. Promueve que el desarrollo de *software* sea ágil, eficiente y centrado en el cliente, sin caer en la trampa de procesos burocráticos o documentación excesiva. Su enfoque sistémico lo convierte en un aliado ideal de otras metodologías ágiles.
+  
+  Ejemplo práctico. Una empresa consolidada que desea hacer más eficiente su ciclo de vida de desarrollo implementa principios Lean para reducir tiempos de espera, eliminar pasos redundantes y optimizar la colaboración interdepartamental.
+
+---
+
+Crystal: flexibilidad, según el tamaño del equipo y la criticidad del proyecto
+  Crystal es una familia de metodologías ágiles (como Crystal Clear, Crystal Orange, Crystal Red), diseñada por Alistair Cockburn, uno de los firmantes del Manifiesto Ágil. Se caracteriza por adaptar la metodología, según el contexto del proyecto, como el tamaño del equipo y la criticidad del *software*.
+  
+  **Características claves:**
+  - Metodología "liviana" y personalizable.
+  - Enfoque humano y colaborativo.
+  - Requiere baja burocracia y alta comunicación.
+  - Varía, según el color (transparente, naranja, rojo) dependiendo del tamaño y riesgo.
+  
+  Crystal parte de la idea de que no existe una única manera correcta de desarrollar *software*. Permite construir una metodología adaptada, lo que puede ser una ventaja para proyectos pequeños o empresas en transición, hacia la agilidad.
+
+  **Ejemplo práctico.** Una consultora de *software* con proyectos de corta duración y equipos de menos de 5 personas, implementa Crystal Clear para mantener la flexibilidad sin imponer procesos innecesarios.
+
+## BLOQUE: bg-full-icono-texto
+
+//assets: 17.svg
+
+Las metodologías ágiles son diversas, pero comparten el propósito común de entregar valor de forma continua, mejorar la colaboración y adaptarse al cambio. La elección de una u otra, dependerá del tipo de proyecto, cultura organizacional, tamaño del equipo y nivel de madurez en prácticas ágiles. En muchas organizaciones, incluso se opta por modelos híbridos, donde se integran prácticas de diferentes enfoques, según las necesidades específicas (Serrano Junco, 2022).
+
+
+## BLOQUE: bloque-material-complementario
+
+Escalona, I. (2009). Planeación integral agregada e interrelación de los sistemas intermitentes con el MRP y filosofía JIT, kanban, reingeniería. El Cid Editor. https://elibro.net/es/lc/tecnologicadeloriente/titulos/28993 
+
+Mujer Cronopio. (2021). AGILE MANIFESTO [1/4]. ¿Solo para ingenieros? ¡NO! [video]. YouTube. https://www.youtube.com/watch?v=UjcAJ3tjg8o 
