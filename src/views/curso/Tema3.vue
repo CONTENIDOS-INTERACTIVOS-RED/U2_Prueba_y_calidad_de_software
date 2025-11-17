@@ -3,20 +3,23 @@
   BannerInterno(:subTitulo="'3. Desarrollo de scripts de prueba'")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.overflow-hidden
 
-    // Bloque 1/14: imagen-texto-iconobloque
-    .row.mb-5
-      .col-lg-4
-        figure
-          img(src="@/assets/curso/tema3/1.png", data-aos="zoom-in")
-      .col-lg-8
-        p(data-aos="fade-left").mb-4 El desarrollo de scripts de prueba es una de las actividades claves en el aseguramiento de calidad del software, especialmente en contextos donde la automatización se convierte en un pilar para validar grandes volúmenes de funcionalidades con frecuencia. Un script de prueba automatizado consiste en un conjunto de instrucciones escritas en un lenguaje de programación (como Java o Python) que simulan la interacción de un usuario con el sistema, evalúan resultados esperados y reportan errores o incongruencias.
 
-        .bg-color-4.p-4(data-aos="fade-left")
-          .row.align-items-start
-            .col-lg-auto
-              img(src="@/assets/curso/tema3/2.svg", style="max-width: 90px").mx-auto
-            .col-lg
-              p.mb-0 Los indicadores ágiles son herramientas cuantitativas y cualitativas que facilitan la toma de decisiones basadas en datos reales y objetivos. A diferencia de métricas tradicionales rígidas, los indicadores en entornos ágiles están diseñados para ser flexibles, adaptables y alineados con los valores de transparencia, colaboración y entrega de valor continuo.
+    p(data-aos="fade-left").mb-4 El desarrollo de scripts de prueba es una de las actividades claves en el aseguramiento de calidad del software, especialmente en contextos donde la automatización se convierte en un pilar para validar grandes volúmenes de funcionalidades con frecuencia. Un script de prueba automatizado consiste en un conjunto de instrucciones escritas en un lenguaje de programación (como Java o Python) que simulan la interacción de un usuario con el sistema, evalúan resultados esperados y reportan errores o incongruencias.
+    
+    //- // Bloque 1/14: imagen-texto-iconobloque
+    //- .row.mb-5
+    //-   .col-lg-4
+    //-     figure
+    //-       img(src="@/assets/curso/tema3/1.png", data-aos="zoom-in")
+    //-   .col-lg-8
+    //-     p(data-aos="fade-left").mb-4 El desarrollo de scripts de prueba es una de las actividades claves en el aseguramiento de calidad del software, especialmente en contextos donde la automatización se convierte en un pilar para validar grandes volúmenes de funcionalidades con frecuencia. Un script de prueba automatizado consiste en un conjunto de instrucciones escritas en un lenguaje de programación (como Java o Python) que simulan la interacción de un usuario con el sistema, evalúan resultados esperados y reportan errores o incongruencias.
+
+    //-     .bg-color-4.p-4(data-aos="fade-left")
+    //-       .row.align-items-start
+    //-         .col-lg-auto
+    //-           img(src="@/assets/curso/tema3/2.svg", style="max-width: 90px").mx-auto
+    //-         .col-lg
+    //-           p.mb-0 En proyectos ágiles y de integración continua, los scripts de prueba permiten validar rápidamente si una funcionalidad nueva ha roto alguna parte del sistema existente (pruebas de regresión), asegurando la estabilidad de las versiones liberadas. Por ello, dominar el desarrollo de scripts no solo implica conocer la sintaxis de Selenium o JUnit, sino entender profundamente cómo estructurar, diseñar, mantener y ejecutar scripts eficaces y escalables.
 
     // Bloque 2/14: color-texto-imagen
     .row.mb-5
